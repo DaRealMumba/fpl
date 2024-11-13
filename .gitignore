@@ -1,0 +1,24 @@
+# Mac
+*.DS_Store
+
+# виртуалка
+/venv
+# IPython
+.ipynb_checkpoints/
+# bytecode
+__pycache__/
+
+# data
+*.csv
+*.pkl
+*.log
+*.joblib
+
+# logos
+*.png
+
+# доступы
+.env
+
+# chrome driver
+chromedriver.exec
